@@ -1,5 +1,5 @@
-# # PROJECT 2
-# Merge Sort
+#  PROJECT 2
+## Merge Sort
 Soru 1 : [16,21,11,8,12,22]  Bu dizinin sort türüne göre aşamalarını yazınız.Merge Sort
 
 --------------------------
